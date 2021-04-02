@@ -10,7 +10,7 @@ Config.RewardMoney = false -- Give money?
 Config.Account = 'black_money'
 Config.Money = 1000 -- Money per stand
 Config.RewardItem = true -- Reward item?
-Config.Cooldown = 60 -- 1 hour
+Config.Cooldown = 3600 -- 1 hour
 Config.WeaponsWL = true -- Needs specific weapon to smash the glass?
 Config.Weapons = { -- If player is using one of this weapons it will be able to smash the stands
 	-1074790547, -- assault rifle
