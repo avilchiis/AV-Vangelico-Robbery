@@ -6,3 +6,5 @@ Video Preview: https://www.youtube.com/watch?v=icqWqite804
 
 You can choose to reward player with Items, money or both.
 The script doesn't include a sell function for jewels, you need to use your our Blackmarket script.
+
+Discord: Discord.gg/invite/SXSZT6q
