@@ -1,4 +1,3 @@
-local stands = 0	-- max 20
 local cooldown = 0
 local w = false
 local wait = 10000
